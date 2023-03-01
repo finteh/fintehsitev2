@@ -1,5 +1,5 @@
 ---
-title: "Devid Luis"
+title: "Ivan Tikhonov"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # teacher portrait
 image: "images/teachers/teacher-3.jpg"
 # course
-course: "Humanities"
+course: "Distributed ledger technology"
 # biography
 bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
@@ -54,7 +54,7 @@ contact:
 type: "teacher"
 ---
 
-### À propos de moi
+### About Me
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
 labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.

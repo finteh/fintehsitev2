@@ -59,7 +59,7 @@
   translation: fee
 
 - id: teacher
-  translation: teacher
+  translation: expert
 
 - id: location
   translation: location
@@ -104,7 +104,7 @@
   translation: SUMMARY OF ACTIVITIES/INTERESTS
 
 - id: our_teachers
-  translation: Our Teachers
+  translation: President and experts pool board
 
 - id: download
   translation: Download

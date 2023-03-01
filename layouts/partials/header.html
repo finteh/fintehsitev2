@@ -17,7 +17,7 @@
             <li class="list-inline-item">
               <a class="text-color mr-3" href="tel:{{ site.Params.mobile }}"><strong>{{ i18n "call" | upper }} : </strong> {{ site.Params.mobile }}</a></li>
             <li class="list-inline-item">
-              <a class="text-color" href="mailto:{{ site.Params.email }}"><strong>{{ i18n "email" | upper }} : </strong> {{ site.Params.email }}</a></li>
+              <a class="text-color" href="mailto:{{ site.Params.email | safeHTML }}"><strong>{{ i18n "email" | upper }} : </strong> {{ site.Params.email | safeHTML }}</a></li>
           </ul>
         </div>
       </div>

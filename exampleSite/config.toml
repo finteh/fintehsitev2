@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/educenter/examplesite/"
 title = "Educenter | hugo education template"
-theme = "educenter-hugo"
+theme = "fintehsitev2"
 # post pagination
 paginate = "6"
 # post excerpt
@@ -48,9 +48,9 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Tadeusza Kościuszki 10, 05-500 Warsaw, Poland"
+mobile = "+48 515 083 616"
+email = "inbox&#64;finteh&#x2022;org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -74,8 +74,8 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "52.07380536671752"
+map_longitude = "21.027064677911692"
 map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
