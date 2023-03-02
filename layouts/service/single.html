@@ -68,7 +68,7 @@
             <img class="mr-4 img-fluid teacher-thumb-sm" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
             <div class="media-body">
               <h4 class="mt-0"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-              {{ .Params.Course }}
+              {{ .Params.Service }}
             </div>
           </div>
           <div class="social-link">
@@ -93,15 +93,15 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h2 class="section-title">{{ i18n "related_course" }}</h2>
+        <h2 class="section-title">{{ i18n "related_service" }}</h2>
       </div>
     </div>
     <div class="row">
       <!-- course item -->
-      {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
+      {{ $related := (where site.RegularPages "Type" "service") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
       {{ range first 3 $related }}
       <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "course"}}
+        {{ .Render "service"}}
       </div>
       {{ end }}
     </div>
