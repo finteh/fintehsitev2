@@ -142,13 +142,13 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "expert"
+  name = "Board and experts pool"
   url = "expert/"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "notice"
-  url = "notice/"
+  name = "documentation"
+  url = "documentation/"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
@@ -179,12 +179,12 @@ weight = 5
 # footer menu
 
 [[Languages.en.menu.footer]]
-name = "expert"
+name = "Board and experts pool"
 url = "expert/"
 
 [[Languages.en.menu.footer]]
-name = "notice"
-url = "notice/"
+name = "documentation"
+url = "documentation/"
 
 [[Languages.en.menu.footer]]
 name = "event"
@@ -237,8 +237,8 @@ url = "expert/"
 
   [[Languages.fr.menu.main]]
   parent = "Pages"
-  name = "notice"
-  url = "notice/"
+name = "documentation"
+url = "documentation/"
 
   [[Languages.fr.menu.main]]
   parent = "Pages"
@@ -273,8 +273,8 @@ name = "expert"
 url = "expert/"
 
 [[Languages.fr.menu.footer]]
-name = "notice"
-url = "notice/"
+name = "documentation"
+url = "documentation/"
 
 [[Languages.fr.menu.footer]]
 name = "event"

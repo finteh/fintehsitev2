@@ -100,11 +100,8 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : "Financial Technologies Association was founded in 4 November 2017 in St. Petersburg at [the event on financial technologies](https://a-concept.timepad.ru/event/593330/ )
+where the members of the current Association performed. At the event at the Erarta Museum, Protocol No. 1 was publicly signed and adopted [Charter of the public non-profit organization “Fintech Association”](https://t.me/finteh/6278 ) without forming a legal entity."
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 

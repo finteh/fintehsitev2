@@ -1,6 +1,6 @@
 ---
-title: "Teaching Materials and Testing Methods"
-date: 2019-07-06T15:27:17+06:00
+title: "Articles of association"
+date: 2017-11-04T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -9,7 +9,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # notice download link
 download_link : "#"
 # type
-type: "notice"
+type: "documentation"
 ---
 
 

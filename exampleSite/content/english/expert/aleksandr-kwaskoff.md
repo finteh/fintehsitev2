@@ -8,7 +8,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # teacher portrait
 image: "images/teachers/teacher-0.jpg"
 # course
-course: "President, web3 public goods"
+course: "web3 public goods"
 # biography
 bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
