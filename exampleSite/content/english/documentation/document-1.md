@@ -15,7 +15,9 @@ type: "documentation"
 
 ### About Articles of association
 
-[Articles of association of the public non-profit organization “Fintech Association”](https://t.me/finteh/6278 ) was adopted and signed in 5 November 2017 in St. Petersburg at [the event at the Erarta Museum](https://a-concept.timepad.ru/event/593330/ )
+[Articles of the non-governmental organization “Financial Technologies Association”](https://t.me/finteh/6278 ) was adopted and signed at [the public fintech event](https://a-concept.timepad.ru/event/593330/ ) at the Erarta Museum in St. Petersburg on November 5, 2017.
+
+
 ### Articles of association contains
 
 * general provisions
