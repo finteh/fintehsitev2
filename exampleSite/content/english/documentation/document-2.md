@@ -12,7 +12,7 @@ download_link : "documentation/report_cwdglobal.pdf"
 type: "documentation"
 ---
 
-### About audit report
+### About CWD.global audit report
 
 you can download and read the audit report in more detail in order to assess the risks of the technical work of the project. Such a report does not replace your own research and the need for other audits
 
