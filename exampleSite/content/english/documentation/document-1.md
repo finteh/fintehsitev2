@@ -1,5 +1,5 @@
 ---
-title: "Articles of association"
+title: "The charter of association"
 date: 2017-11-04T15:27:17+06:00
 draft: false
 # page title background image
@@ -13,12 +13,12 @@ type: "documentation"
 ---
 
 
-### About Articles of association
+### About charter of association
 
-[Articles of the non-governmental organization “Financial Technologies Association”](https://t.me/finteh/6278 ) was adopted and signed at [the public fintech event](https://a-concept.timepad.ru/event/593330/ ) at the Erarta Museum in St. Petersburg on November 5, 2017.
+[The charter of the non-governmental organization “Financial Technologies Association”](https://t.me/finteh/6278 ) was adopted and signed at [the public fintech event](https://a-concept.timepad.ru/event/593330/ ) at the Erarta Museum in St. Petersburg on November 5, 2017.
 
 
-### Articles of association contains
+### The charter of association contains
 
 * general provisions
 * entry procedure
