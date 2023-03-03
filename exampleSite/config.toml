@@ -1,13 +1,13 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/educenter/examplesite/"
-title = "Educenter | hugo education template"
+title = "finteh | non-governmental organization"
 theme = "fintehsitev2"
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
+disqusShortname = "finteh" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -45,14 +45,14 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "NGO finteh"
 author = "Themefisher"
 # contact info
 address = "Tadeusza Kościuszki 10, 05-500 Warsaw, Poland"
 mobile = "+48 515 083 616"
 email = "inbox&#64;finteh&#x2022;org"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xpzrgzjb" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
@@ -67,8 +67,8 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 [params.subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+mailchimp_form_action = "https://finteh.us21.list-manage.com/subscribe/post?u=e7f9e0dbf7ea8ebde101e4b3c&amp;id=6c2abff8be&amp;f_id=001a88e1f0" # replace this url with yours
+mailchimp_form_name = "b_e7f9e0dbf7ea8ebde101e4b3c_6c2abff8be" # replace this code with yours
 
 # google map
 [params.map]
