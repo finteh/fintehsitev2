@@ -81,7 +81,7 @@ map_marker = "images/marker.png" # marker size 37*55 px
 # cookies
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = 20
   
 ############################# social site ########################
 [[params.social]]
@@ -118,7 +118,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+copyright = "CC BY 4.0 | theme by [Themefisher](https://themefisher.com/hugo-themes/)"
 
 
 
