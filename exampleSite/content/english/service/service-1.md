@@ -1,23 +1,21 @@
 ---
-title: "Code audit"
+title: "Code audit report"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : " ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "for the most part, we receive requests to audit smart contracts, but it can be an code audit of the blockchain, bridges, scripts and other parts of the financial system"
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "Photography"
+category: "audit"
 # teacher
 expert: "Aleksandr Kwaskoff"
 # duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
+duration : "1 Month"
 # service fee
-fee : "From: $699"
+fee : "From: $1599"
 # apply url
 apply_url : "#"
 # type
