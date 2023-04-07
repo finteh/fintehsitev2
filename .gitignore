@@ -5,7 +5,6 @@ Thumbs.db
 .sass-cache
 npm-debug.log
 node_modules
-builds
 package-lock.json
-public
-DS_Store
+yarn.lock
+netlify

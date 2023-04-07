@@ -1,135 +1,103 @@
-<h1 align=center>Educenter Hugo</h1> 
-<p align=center> Educenter is a Hugo theme designed specifically for educational websites. This sleek theme is packed with all the elements that you need to show info about your school, courses, instructors, announcements, and more. </p>
+# Educenter By Themefisher
 
-<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/educenter" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Feducenter%2Fsite%2F&form_factor=desktop">Page Speed (96%)</a></h2>
+Educenter is an educational website template with affluent, contemporary, modern and trendy features for your majestic presence in web with a simple user interface.
 
+<!-- demo -->
+## Example Site
 
-<p align=center>
-  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.70.0" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.70.0&color=f00&logo=hugo" />
-  </a>
+| [![](screenshots/homepage.png)](https://demo.themefisher.com/educenter/index.html) | [![](screenshots/course.png)](https://demo.themefisher.com/educenter/courses.html) | [![](screenshots/events.png)](https://demo.themefisher.com/educenter/events.html) |
+|:---:|:---:|:---:|
+| **Homepage 1**  | **Course**  | **Events**  |
+| [![](screenshots/teacher.png)](https://demo.themefisher.com/educenter/teacher.html) | [![](screenshots/notice.png)](https://demo.themefisher.com/educenter/notice.html) | [![](screenshots/blog.png)](https://demo.themefisher.com/educenter/blog.html) |
+| **Teacher** | **Notice** | **Blog** |
 
-  <a href="https://github.com/themefisher/educenter-hugo/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/themefisher/educenter-hugo" alt="license"></a>
+👉🏻[View Live Preview](https://demo.themefisher.com/educenter/)
 
-  <img src="https://img.shields.io/github/languages/code-size/themefisher/educenter-hugo" alt="code size">
+<!-- download -->
+## Download And installation
 
-  <a href="https://github.com/themefisher/educenter-hugo/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/themefisher/educenter-hugo" alt="contributors"></a>
+Download this template from [Github](https://github.com/themefisher/revolve/archive/main.zip)
 
-  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
-    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
-      alt="follow on Twitter"></a>
-</p>
+<!-- installation -->
+### Basic Usages
 
----
+After downloading the template, you can simply edit the HTML and CSS files from the `theme` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
 
-<p align="center">
-<img src="https://demo.gethugothemes.com/thumbnails/educenter.png" alt="screenshot" width="100%">
-</p>
+### Advanced Usage
 
----
-## Key Features
-- Multiple language support (Fr, En) 
-- Google analytics  support
-- CSS and Js bundle with hugo pipe
-- Netlify settings predefine
-- Forestry cms pre-configured
-- Multiple author available
-- Contact form Support
-- Mailchimp integrate
-- GDPR consent enable
-- Google map support
-- Top header customization
-- Taxonomy or category
-- Google page speed optimized
-- Open graph meta tag
-- Twitter card meta tag
+For advanced usage, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
 
+#### Install prerequisites (once for a machine)
 
-## Local development
+* **Node Installation:** [Install node js](https://nodejs.org/en/download/)
+* **Gulp Installation:** Install gulp globally from your terminal
 
-```bash
-# clone the repository
-git clone git@github.com:themefisher/educenter-hugo.git
-
-# cd in the project directory
-$ cd educenter-hugo/exampleSite/
-
-# Start local dev server
-$ hugo server --themesDir ../..
 ```
-Or Check out [Full Documentation](https://docs.gethugothemes.com/educenter/?ref=github).
+npm install --global gulp-cli
+```
 
-## Content Management System
+Or visit the original [Gulp docs](https://gulpjs.com/docs/en/getting-started/quick-start)
 
-[![import to
-Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/educenter-hugo&engine=hugo&version=0.87.0)
+#### Local setup
 
-This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
-repository in Forestry](https://app.forestry.io/quick-start?repo=themefisher/educenter-hugo&engine=hugo&version=0.87.0) and
-you will be able to edit and preview your site ✨.
+After successfully installing those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
 
-Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
-## Deployment and hosting
+* Install dependencies
 
-[![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/themefisher/educenter-hugo)
+```
+npm install
+```
 
-Follow the steps.
+* Run locally
 
-## Prefer a video? (Hugo + Netlify + Forestry)
-Build your website with **Educenter Hugo** theme by following these easy steps (No Coding Required!)
-[Video Tutorial](https://youtu.be/ResipmZmpDU).
+```
+npm run dev
+```
+
+After that, it will open up a preview of the template in your default browser, watch for changes to source files, and live reload the browser when changes are saved.
+
+#### Production Build
+
+After finishing all the customization, you can create a production build by running this command.
+
+```
+npm run build
+```
+
+Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
+
+👉🏻 [visit documentation](https://docs.themefisher.com/revolve/)
 
 <!-- reporting issue -->
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Educenter  Template. Please Search [existing
-issues](https://github.com/themefisher/educenter-hugo/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/themefisher/educenter-hugo/issues).
 
+We use GitHub Issues as the official bug tracker for the Meghna Template. Please Search [existing issues](https://github.com/themefisher/Educenter-Bootstrap-Education-Template/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Educenter-Bootstrap-Education-Template/issues).
 
- ## Submit Your Website To Our Showcase
+<!-- support -->
+## Technical Support or Questions (Paid)
 
-Are you using Educenter Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
-
-Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
-
-View all the websites powered by Educenter Hugo from [here](https://gethugothemes.com/showcase?theme=educenter). 
-
-[Submit](https://gethugothemes.com/showcase?submit=show) your Educenter Hugo powered website.
+If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
 <!-- licence -->
 ## License
-Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
-[Gethugothemes](https://gethugothemes.com)
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/educenter-hugo/blob/master/LICENSE) license.
+Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
 
-**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
-share those images.
+**Code License:** Released under the [MIT](https://github.com/themefisher/revolve/blob/main/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
 <!-- resources -->
-## Special Thanks
-- [Bootstrap](https://getbootstrap.com)
-- [Jquery](https://jquery.com)
-- [Themify Icons](https://themify.me/themify-icons)
-- [Slick Slider](https://kenwheeler.github.io/slick/)
-- [Venobox](https://veno.es/venobox/)
-- [Filterizr](https://yiotis.net/filterizr/)
-- [Google Fonts](https://fonts.google.com/)
-- [All Contributors](https://github.com/themefisher/educenter-hugo/graphs/contributors)
+## Resources
 
+Some third-party plugins that we used to build this template. Please check their license.
 
-## Hire Us
-Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
-
-If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our 
-[Services](https://gethugothemes.com/services/?utm_source=educenter_github&utm_medium=referral&utm_campaign=github_theme_readme)**
-
-<!-- premium themes -->
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=educenter_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.png)](https://gethugothemes.com/products/bizcraft/) | [![Meghna](https://demo.gethugothemes.com/thumbnails/bexer.png)](https://gethugothemes.com/products/bexer/) |
-|:---:|:---:|:---:|
-| **Get 55+ Premium Hugo Themes Bundle** | **Bizcraft** | **Bexer** |
+* **Bootstrap v4.5**: <https://getbootstrap.com/docs/4.5/getting-started/introduction/>
+* **Jquery v3.5.1**: <https://jquery.com/download/>
+* **Themify Icons**: <https://themify.me/themify-icons>
+* **Google Fonts**: <http://fonts.google.com/>
+* **AOS**: <https://michalsnik.github.io/aos/>
+* **Venobox**: <https://veno.es/venobox/>
+* **Slick**: <https://kenwheeler.github.io/slick/>
+* **Filterizr**: <https://yiotis.net/filterizr/>
