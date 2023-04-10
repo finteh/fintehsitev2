@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/educenter/examplesite/"
+baseURL = "https://demo.gethugothemes.com/"
 title = "finteh | non-governmental organization"
 theme = "fintehsitev2"
 # post pagination
