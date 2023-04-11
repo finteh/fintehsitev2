@@ -4,6 +4,7 @@ Thumbs.db
 .tmp
 .sass-cache
 .idea
+theme
 npm-debug.log
 node_modules
 package-lock.json
