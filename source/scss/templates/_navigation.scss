@@ -118,7 +118,7 @@ link:focus,
 }
 
 .navbar {
-  
+
   .nav-item > .dropdown-toggle::after {
     border: 0;
     margin-left: 0.255em;
@@ -177,7 +177,7 @@ link:focus,
         transform: translateY(0);
         transform-origin: unset;
         margin: 0;
-        border: 0;
+        // border: 0;
         position: static;
       }
 
@@ -194,6 +194,7 @@ link:focus,
     .dropdown .dropdown-toggle,
     &-item {
       position: relative;
+      margin: 10px auto;
       color: $text-color-dark;
       transition: .2s ease;
       text-transform: capitalize;
