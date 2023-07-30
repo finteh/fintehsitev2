@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/"
+baseURL = "https://finteh.org"
 title = "finteh | non-governmental organization"
 theme = "fintehsitev2"
 # post pagination
@@ -50,11 +50,11 @@ author = "Themefisher"
 # contact info
 address = "Tadeusza Kościuszki 10, 05-500 Warsaw, Poland"
 mobile = "+48 515 083 616"
-email = "inbox&#64;finteh&#x2022;org"
+email = "inbox@finteh.org"
 # contact form action
 contact_form_action = "https://formspree.io/f/xpzrgzjb" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analitycs_id = "UA-88015393-6" # your id
 # top header
 top_header = true
 
@@ -81,33 +81,23 @@ map_marker = "images/marker.png" # marker size 37*55 px
 # cookies
 [params.cookies]
 enable = true
-expire_days = 20
+expire_days = 30
   
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/finteh"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/finteh"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://linkedin.com/company/finteh"
 
 
 ################################### English language #####################################
@@ -118,7 +108,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "CC BY 4.0 | theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+copyright = "content CC BY 4.0 | theme © by [Themefisher](https://themefisher.com/hugo-themes/)"
 
 
 
@@ -136,7 +126,17 @@ url = "service/"
 weight = 2
 
 [[Languages.en.menu.main]]
+name = "documentation"
+url = "documentation/"
 weight = 3
+
+[[Languages.en.menu.main]]
+name = "nodes"
+url = "nodes/"
+weight = 4
+
+[[Languages.en.menu.main]]
+weight = 5
 name = "Pages"
 hasChildren = true
 
@@ -147,33 +147,28 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "documentation"
-  url = "documentation/"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
   name = "event"
   url = "event/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship/"
+ # [[Languages.en.menu.main]]
+ # parent = "Pages"
+ # name = "scholarship"
+ # url = "scholarship/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research/"
+ # [[Languages.en.menu.main]]
+ # parent = "Pages"
+ # name = "research"
+ # url = "research/"
   
-[[Languages.en.menu.main]]
-name = "blog"
-url = "blog/"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "blog"
+#url = "blog/"
+#weight = 4
   
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 5
+weight = 6
 
 
 # footer menu
@@ -191,13 +186,16 @@ name = "event"
 url = "event/"
 
 [[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship/"
+name = "nodes"
+url = "nodes/"
 
-[[Languages.en.menu.footer]]
-name = "research"
-url = "research/"
+#[[Languages.en.menu.footer]]
+#name = "scholarship"
+#url = "scholarship/"
 
+#[[Languages.en.menu.footer]]
+#name = "research"
+#url = "research/"
 
 
 ################################### French language #####################################
@@ -212,78 +210,4 @@ copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefi
 
 
 
-################### French navigation ####################
 
-# main menu
-[[Languages.fr.menu.main]]
-name = "À propos"
-url = "about/"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "Cours"
-url = "course/"
-weight = 2
-
-[[Languages.fr.menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-name = "expert"
-url = "expert/"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-name = "documentation"
-url = "documentation/"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Évènement"
-  url = "event/"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Cursus"
-  url = "scholarship/"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research/"
-  
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "blog/"
-weight = 4
-  
-[[Languages.fr.menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 5
-
-
-# footer menu
-
-[[Languages.fr.menu.footer]]
-name = "expert"
-url = "expert/"
-
-[[Languages.fr.menu.footer]]
-name = "documentation"
-url = "documentation/"
-
-[[Languages.fr.menu.footer]]
-name = "event"
-url = "event/"
-
-[[Languages.fr.menu.footer]]
-name = "scholarship"
-url = "scholarship/"
-
-[[Languages.fr.menu.footer]]
-name = "research"
-url = "research/"

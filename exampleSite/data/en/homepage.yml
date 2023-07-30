@@ -4,8 +4,8 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "You can join us at telegram or wright the application"
+      content : "Our charter allows you to become a member of the association simply by joining to the telegram group"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,19 +15,8 @@ slider:
         link : "contact/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply now"
-        link : "contact/"
-
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Order an audit or an expert assessment"
+      content : "Just write to us in the telegram group. If your request requires confidentiality, send the application on the website or write an email"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -82,14 +71,14 @@ service:
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
-cta:
-  enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
-  button:
-    enable : true
-    label : "join now"
-    link : "contact/"
+#cta:
+#  enable : true
+#  subtitle : "Click to Join the Advance Workshop"
+#  title : "Training In Advannce Networking"
+#  button:
+#    enable : true
+#    label : "join now"
+#    link : "contact/"
 
 
 ######################## Success story #############################
@@ -99,7 +88,7 @@ success_story:
   title : "Success Stories"
   content : "Financial Technologies Association was founded in 5 November 2017 in St. Petersburg at [the event of financial technologies](https://a-concept.timepad.ru/event/593330/ ) where the members of the current Association performed. At the event at the Erarta Museum, Protocol No. 1 was publicly signed and adopted [Articles of association of the public non-governmental organization Financial Technologies Association](https://t.me/finteh/6278 ) without forming a legal entity."
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+#  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
 
 ############################# event ################################
@@ -134,7 +123,7 @@ funfacts:
 
 
 ############################# blog ################################
-blog:
-  enable : true
-  title : "Latest News"
+#blog:
+#  enable : true
+#  title : "Latest News"
   # blog item comes from "content/**/blog" folder.
