@@ -23,7 +23,11 @@ jobs:
           hugo-version: '0.114.0'
 
       - name: Build
-        run: hugo --minify
+        run: |
+          hugo \
+            --minify \
+            --themesDir ../.. \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
