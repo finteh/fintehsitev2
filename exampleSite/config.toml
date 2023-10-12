@@ -9,7 +9,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "finteh" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["fr"] # desable language from here
 
 
 ############################# Plugins ##############################
@@ -126,8 +126,8 @@ url = "service/"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "documentation"
-url = "documentation/"
+name = "incubator"
+url = "incubator/"
 weight = 3
 
 [[Languages.en.menu.main]]
@@ -150,15 +150,15 @@ hasChildren = true
   name = "event"
   url = "event/"
 
- # [[Languages.en.menu.main]]
- # parent = "Pages"
- # name = "scholarship"
- # url = "scholarship/"
-
- # [[Languages.en.menu.main]]
- # parent = "Pages"
- # name = "research"
- # url = "research/"
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "documentation"
+  url = "documentation/"
+ 
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "research"
+#  url = "research/"
   
 #[[Languages.en.menu.main]]
 #name = "blog"
