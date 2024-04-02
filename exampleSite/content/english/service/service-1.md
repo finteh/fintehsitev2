@@ -17,7 +17,7 @@ duration : "From: one week"
 # service fee
 fee : "From: $1599"
 # apply url
-apply_url : "contact/"
+apply_url : "/contact/"
 # type
 type: "service"
 ---
