@@ -12,7 +12,7 @@ description : "Earn staking rewards with us"
 
 ## OUR MAINNETS
 ### ORAICHAIN
-![ORAICHAIN LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/orai-chain/resource/chain_orai.png)
+![ORAICHAIN LOGO](https://cosmosrun.info/logos/oraichain.png)
 
 Stake please at https://restake.app/oraichain/oraivaloper1ujc2kt26d3a0x7v92e5acfu952j228f23gj248
 
@@ -36,6 +36,14 @@ Stake please at https://restake.app/xpla/xplavaloper1rvdpd2rpar2gj83p5jr7g6kmqdw
 
 Stake please at
 https://restake.app/lava/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
+
+## OUR TESTNETS
+
+### PERSISTENCE
+
+![PERSISTENCE LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/persistence/resource/chain_persistence.png)
+
+https://www.mintscan.io/persistence-testnet/validators/persistencevaloper1ym0n0uwp458myvf0v7t0n9esytqkvz46me5zze
 
 ## OUR MISSION
 
