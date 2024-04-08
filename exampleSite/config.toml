@@ -23,8 +23,10 @@ link = "plugins/slick/slick.css"
 link = "plugins/animate/animate.css"
 [[params.plugins.css]]
 link = "plugins/venobox/venobox.css"
+#[[params.plugins.css]]
+#link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
+link = "plugins/fontawesome/css/all.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -84,20 +86,27 @@ enable = true
 expire_days = 30
   
 ############################# social site ########################
+
+[[params.social]]
+title = "telegram"
+icon = "fa-brands fa-telegram" # themify icon : https://themify.me/themify-icons
+link = "https://t.me/finteh"
+
 [[params.social]]
 title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+icon = "fa-brands fa-twitter" # themify icon : https://themify.me/themify-icons
 link = "https://twitter.com/finteh"
 
 [[params.social]]
 title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
+icon = "fa-brands fa-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/finteh"
 
 [[params.social]]
 title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+icon = "fa-brands fa-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://linkedin.com/company/finteh"
+
 
 
 ################################### English language #####################################
