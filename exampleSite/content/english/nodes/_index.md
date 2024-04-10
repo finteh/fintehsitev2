@@ -9,6 +9,12 @@ image: "images/backgrounds/success-story.jpg"
 description : "Earn staking rewards with us"
 ---
 
+## OUR MISSION AS VALIDATOR
+
+Professional community with own secure and reliable validator.
+We are moving from centralized hosting services to own bare metal monitored servers and helping other to do it right.
+
+
 
 ## OUR MAINNETS
 ### ORAICHAIN
@@ -45,8 +51,5 @@ https://restake.app/lava/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
 
 https://www.mintscan.io/persistence-testnet/validators/persistencevaloper1ym0n0uwp458myvf0v7t0n9esytqkvz46me5zze
 
-## OUR MISSION
 
-Professional community with own secure and reliable validator.
-We are moving from centralized hosting services to own bare metal monitored servers and helping other to do it right.
 
