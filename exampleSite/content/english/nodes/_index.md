@@ -37,12 +37,15 @@ Stake please at https://restake.app/emoney/emoneyvaloper1cja500vpm2e0nl2pk8knc88
 
 Stake please at https://restake.app/xpla/xplavaloper1rvdpd2rpar2gj83p5jr7g6kmqdwfr4u2kdzf29
 
+<!---
+
 ### LAVA
 ![LAVA LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/lava/asset/lava.png)
 
 Stake please at
 https://restake.app/lava/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
 
+-->
 ## OUR TESTNETS
 
 ### PERSISTENCE
