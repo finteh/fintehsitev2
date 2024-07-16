@@ -54,5 +54,18 @@ https://restake.app/lava/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
 
 https://www.mintscan.io/persistence-testnet/validators/persistencevaloper1ym0n0uwp458myvf0v7t0n9esytqkvz46me5zze
 
+### LAVA
+
+![LAVA LOGO](https://github.com/cosmostation/chainlist/blob/main/chain/lava/resource/chain_lava.png)
+
+https://lava.explorers.guru/validator/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
+
+### SIDE
+
+![SIDE LOGO](https://miro.medium.com/v2/resize:fit:192/1*F10PkX3TEiW1fo3tpdnBzA.jpeg)
+
+https://testnet.ping.pub/side/staking/sidevaloper1qqgqxqgmzur3jxc8qszs5pgczcfp7qqlqs9qzrqnqufsyzsszutqk4xhqnr
+
+
 
 
