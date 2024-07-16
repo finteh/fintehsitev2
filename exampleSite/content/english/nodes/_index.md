@@ -56,7 +56,7 @@ https://www.mintscan.io/persistence-testnet/validators/persistencevaloper1ym0n0u
 
 ### LAVA
 
-![LAVA LOGO](https://github.com/cosmostation/chainlist/blob/main/chain/lava/resource/chain_lava.png)
+![LAVA LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/lava/resource/chain_lava.png)
 
 https://lava.explorers.guru/validator/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
 
