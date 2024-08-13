@@ -17,6 +17,12 @@ We are moving from centralized hosting services to own bare metal monitored serv
 
 
 ## OUR MAINNETS
+### LAVA
+![LAVA LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/lava/asset/lava.png)
+
+Stake please at
+https://restake.app/lava/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
+
 ### ORAICHAIN
 ![ORAICHAIN LOGO](https://cosmosrun.info/logos/oraichain.png)
 
@@ -27,26 +33,19 @@ Stake please at https://restake.app/oraichain/oraivaloper1ujc2kt26d3a0x7v92e5acf
 
 Stake please at https://restake.app/bostrom/bostromvaloper1n89a8avc4j7cv75lfsyynx5kazlk80arv6ljke
 
+<---
 ### E-MONEY
 ![E-MONEY LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/emoney/resource/chain_emoney.png)
 
 Stake please at https://restake.app/emoney/emoneyvaloper1cja500vpm2e0nl2pk8knc885mm6waxuhjjuhcn
+--->
 
 ### XPLA
 ![XPLA LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/xpla/resource/chain_xpla.png)
 
 Stake please at https://restake.app/xpla/xplavaloper1rvdpd2rpar2gj83p5jr7g6kmqdwfr4u2kdzf29
 
-<!---
-
-### LAVA
-![LAVA LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/lava/asset/lava.png)
-
-Stake please at
-https://restake.app/lava/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
-
--->
-## OUR TESTNETS
+OUR TESTNETS
 
 ### PERSISTENCE
 
@@ -58,7 +57,7 @@ https://www.mintscan.io/persistence-testnet/validators/persistencevaloper1ym0n0u
 
 ![LAVA LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/lava/resource/chain_lava.png)
 
-https://lava.explorers.guru/validator/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
+https://testnet.lava.explorers.guru/validator/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
 
 ### SIDE
 
