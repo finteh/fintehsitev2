@@ -4,51 +4,36 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Specialization in media management (journalism, social networks, publishing), banking (commercial banks, money circulation, cooperation in finance)."
 # teacher portrait
 image: "images/teachers/teacher-5.jpg"
 # course
 course: "Banker"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+bio: "Specialization in media management (journalism, social networks, publishing), banking (commercial banks, money circulation, cooperation in finance). The author of a textbook on banking: A banking book for everyone (GASIS publishing house - The State Academy of Professional Retraining and Advanced Training of Executives and specialists in the investment sector, now the Higher School of Economics State University). A citizen of Israel and Russia. Charity work: medical volunteer at city Hospital No. 52 (specialization: care of seriously ill patients in intensive care and recovery/rehabilitation of patients after intensive care). Hobby: graphic patterns in a checkered notebook (Telegram channel: [t.me/NFT_for_volunteers](https://t.me/NFT_for_volunteers))"
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: ["Cooperation in the financial sector","Social media","Documentary Theatre","Health and Longevity Project"]
 # contact info
 contact:
   # contact item loop
-  - name : "clarkmalik@email.com"
+  - name : "Ricorp2007@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:clarkmalik@email.com"
+    link : "mailto:ricorp2007@gmail.com"
 
   # contact item loop
-  - name : "+12 034 5876"
+  - name : "+79168529745"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "tel:+79168529745"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Leon Rensar"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://www.facebook.com/leokrasner/"
 
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "clarkmalik.com"
-    icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "1313 Boulevard Cremazie,Quebec"
+   # contact item loop
+  - name : "125446 Moscow, Russia, Novokurkinskoye Shosse, 33, apartment 27"
     icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://maps.app.goo.gl/2UPTxfEk3B8oGBTH6"
 
 # type
 type: "expert"
@@ -56,9 +41,4 @@ type: "expert"
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
-
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+Specialization in media management (journalism, social networks, publishing), banking (commercial banks, money circulation, cooperation in finance). The author of a textbook on banking: "A banking book for everyone" (GASIS publishing house - The State Academy of Professional Retraining and Advanced Training of Executives and specialists in the investment sector, now the Higher School of Economics State University). A citizen of Israel and Russia. Charity work: medical volunteer at city Hospital No. 52 (specialization: care of seriously ill patients in intensive care and recovery/rehabilitation of patients after intensive care). Hobby: graphic patterns in a checkered notebook (Telegram channel: [t.me/NFT_for_volunteers](https://t.me/NFT_for_volunteers))
