@@ -4,9 +4,9 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Specialization in media management (journalism, social networks, publishing), banking (commercial banks, money circulation, cooperation in finance)."
+description : "Press Secretary of NGO Financial Technologies Association, Warsaw, Poland."
 # teacher portrait
-image: "images/teachers/teacher-5.jpg"
+image: "images/teachers/leonid-krasner.jpg"
 # course
 course: "Banker"
 # biography

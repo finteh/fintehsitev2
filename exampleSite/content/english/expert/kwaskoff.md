@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "President of NGO Financial Technologies Association, Warsaw, Poland. Founder of Financial incubator"
 # teacher portrait
-image: "images/teachers/teacher-0.jpg"
+image: "images/teachers/kwaskoff.jpg"
 # course
 course: "web3 public goods"
 # biography
