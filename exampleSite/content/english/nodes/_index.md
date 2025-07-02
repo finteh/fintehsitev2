@@ -17,13 +17,7 @@ We are moving from centralized hosting services to own bare metal monitored serv
 
 
 ## OUR MAINNETS
-### ASI (Fetch.ai)
-![ASI LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/refs/heads/main/chain/fetchai/resource/chain_fetchai.png)
 
-Stake please at
-https://restake.app/fetchhub/fetchvaloper17xzn97s3glfs8ffrt05kxvphq0z3mu4w4asjz4
-
-by Validator Node Succession Program
 
 ### IRIS
 ![IRIS LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/refs/heads/main/chain/iris/resource/chain_iris.png)
@@ -32,6 +26,19 @@ Stake please at
 https://restake.app/irisnet/iva1az3y7j3ncfxude5t9n9sry39acgn7dpejds8gf
 
 by Validator Node Succession Program
+
+<!---
+
+
+### ASI (Fetch.ai)
+
+![ASI LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/refs/heads/main/chain/fetchai/resource/chain_fetchai.png)
+
+Stake please at
+https://restake.app/fetchhub/fetchvaloper17xzn97s3glfs8ffrt05kxvphq0z3mu4w4asjz4
+
+by Validator Node Succession Program
+
 
 ### LAVA
 ![LAVA LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/lava/resource/chain_lava.png)
@@ -49,14 +56,12 @@ Stake please at https://restake.app/oraichain/oraivaloper1ujc2kt26d3a0x7v92e5acf
 
 Stake please at https://restake.app/bostrom/bostromvaloper1n89a8avc4j7cv75lfsyynx5kazlk80arv6ljke
 
-<!---
 
 ### E-MONEY
 ![E-MONEY LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/emoney/resource/chain_emoney.png)
 
 Stake please at https://restake.app/emoney/emoneyvaloper1cja500vpm2e0nl2pk8knc885mm6waxuhjjuhcn
 
--->
 
 ### XPLA
 ![XPLA LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/xpla/resource/chain_xpla.png)
@@ -76,13 +81,11 @@ by Validator Node Succession Program
 
 https://www.mintscan.io/persistence-testnet/validators/persistencevaloper1ym0n0uwp458myvf0v7t0n9esytqkvz46me5zze
 
-<!---
 ### LAVA
 
 ![LAVA LOGO](https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/lava/resource/chain_lava.png)
 
 https://testnet.lava.explorers.guru/validator/lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483
--->
 
 
 ### SIDE
@@ -91,6 +94,7 @@ https://testnet.lava.explorers.guru/validator/lava@valoper1cde73nkhe3j3twx7jygj6
 
 https://testnet.ping.pub/side/staking/sidevaloper1qqgqxqgmzur3jxc8qszs5pgczcfp7qqlqs9qzrqnqufsyzsszutqk4xhqnr
 
+-->
 
 
 
